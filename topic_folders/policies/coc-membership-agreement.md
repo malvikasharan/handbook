@@ -72,3 +72,12 @@ New committee members will be included in committee discussions only after they 
 * This document is largely based on “[The Code of Good Governance, DIY Committee Guide](http://www.diycommitteeguide.org/sites/default/files/2016-03/code-of-good-governance-2016.pdf), 2016” http://www.diycommitteeguide.org/download/example-code-of-conduct-volunteer-now
 * [How to Respond to Code of Conduct Reports](https://files.frameshiftconsulting.com/books/cocguide.pdf), Valerie Aurora and Mary Gardiner, 2018
 
+## Update Logs
+
+- 2019-07-17 Document is approved by the members of the Code of Conduct committee and added to The Carpentries Handbook.
+
+- 2019-04-18 The document was presented to The Carpentries Trainers community.
+
+- 2019-02 to 2019-06 The document was intesively reviewed and updated by the committee members Malvika Sharan, Karin Lagesen, Kari L. Jordan, Samantha Ahern, and Simon Waldman.
+
+- 2019-01-31 The first draft of this document was written by Malvika Sharan.
